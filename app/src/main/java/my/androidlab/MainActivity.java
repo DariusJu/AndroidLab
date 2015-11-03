@@ -10,10 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        toolbar();
-    }
-
-    private void toolbar() {
-        //toolbar
+        //demo kodas cia
     }
 }
